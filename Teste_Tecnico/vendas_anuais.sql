@@ -17,7 +17,7 @@ WHERE row_number = 1;
 -- ordenando as vendas do maior para o menor (ORDER BY sale_amount DESC).
 -- O WHERE row_number = 1 garante que estamos selecionando apenas o consultor com a maior venda em cada ano.
 
--- Resultado esperado:
+-- Resultado:
 -- 2021 | Pablo Ramos
 -- 2022 | Celia Matos
 -- 2023 | Giovanni Belo
